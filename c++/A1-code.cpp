@@ -3,9 +3,7 @@ using namespace std;
 
 int main()
 {
-  int apple;
-
-  apple = 8;
+  int apple=8;
 
   cout << "There are 'apple' apples\n"
        << "Now there are 'apple-3' apples\n";

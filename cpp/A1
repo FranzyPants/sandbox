@@ -1,0 +1,22 @@
+~~MATT~~
+
+Create a program that outputs the following:
+
+There are 8 apples.
+Now there are 5 apples.
+
+Use one variable called apple and do not cout << "8"
+
+remember:
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+<body>
+
+return 0;
+}
+
+Post back!

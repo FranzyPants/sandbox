@@ -1,0 +1,27 @@
+///PROG A2\\\
+
+Variables can be reassigned:
+----------
+int apple=8;
+apple=5;
+----------
+In this case, apple's value was changed to 5
+
+Variables can be used in operations:
+----------
+apple=5;
+orange=apple-3;
+----------
+In this case, orange is 2
+
+Write a program that satisfies the following problem:
+Jack has 5 apples. Jill has 2 oranges. Tom has as many bananas as Jack and Jill have together in apples and oranges.
+Betty has twice as many pears as Tom has bananas.
+>Use actual numbers only when declaring apples and oranges (5 and 2)
+
+SAMPLE OUTPUT:
+
+Jack has 5 apples.
+Jill has 2 oranges.
+Tom has 7 bananas.
+Betty has 14 pears.

@@ -1,0 +1,35 @@
+#include <iostream>
+using namespace std;
+
+class Clock
+{
+private:
+  int hour;
+  int minute;
+  int second;
+
+public:
+  Clock(int=0, int=0, int=0);
+  void dispTime();
+};
+
+Clock::Clock(int h, int m, int s)
+{
+  hour=h;
+  minute=m;
+  second=s;
+}
+
+void Clock::dispTime()
+{
+  cout << "The time is " << hour << ":" << minute << ":" << second << endl;
+}
+
+int main()
+{
+  Clock c1(2, 2, 2);
+
+  c1.dispTime();
+
+  return 0;
+}

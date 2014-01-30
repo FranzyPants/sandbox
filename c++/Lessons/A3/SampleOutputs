@@ -1,0 +1,59 @@
+Would you like to use the register? (y/n): n
+Goodbye!
+
+---------------------------------------------
+
+Would you like to use the register? (y/n): N
+Goodbye!
+
+---------------------------------------------
+
+Would you like to use the register? (y/n): r
+Invalid answer
+
+---------------------------------------------
+
+Would you like to use the register? (y/n): y
+
+
+*************
+Cash Register
+*************
+
+How much is the item?  $50
+The total is $54.00. How much did they pay? $3
+Not enough money!
+
+---------------------------------------------
+
+Would you like to use the register? (y/n): y
+
+*************
+Cash Register
+*************
+
+How much is the item?  $50
+The total is $54.00. How much did they pay? $55
+The change is $1.00. Give back:
+
+1 Ones
+
+---------------------------------------------
+
+Would you like to use the register? (y/n): y
+
+*************
+Cash Register
+*************
+
+How much is the item?  $399.99
+The total is $431.99. How much did they pay? $500 
+The change is $68.01. Give back:
+
+1 Fifties
+1 Tens
+1 Fives
+3 Ones
+1 Pennies
+
+---------------------------------------------

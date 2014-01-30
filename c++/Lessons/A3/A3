@@ -1,3 +1,54 @@
-Hey Jacob! I have a request for you.
+//A3\\
 
-I would like to know how to gather input from the user. Right now, the two programs we've done only spit out information. I want to let the user pick the output this time. For example, can we write a program that prompts the user for their favorite car, then does something like "It looks like 'input' is your favorite car".
+>>Remember:
+
+% operator ONLY works with integers!!
+
+Greater than- >
+Less than- <
+Greater or equal to- >=
+Less or equal to- <=
+Equal to- ==
+Not equal to- !=
+And- &&
+Or- ||
+
+When using a char put in '' (ex: yn='Y')
+
+You can convert a datatype by "typecasting", multiplying the target datatype into the equation
+Syntax: variable=(variable'sDatatype)variableOfOtherDatatype;
+Ex:
+----------
+int sum;
+double x=1.1, y=2.1;
+
+sum=x+y; //Because the sum 3.2 is not int, this will cause problems
+
+sum=(int)(x+y); //This will properly convert 3.2 to 3 as integer
+
+----------
+
+
+
+
+
+
+>>Here is your project:
+
+The program you are writing is for a cash register. It must:
+-Ask the user if they would like to use the register
+     -Say "Goodbye!" if they do not and exit program
+     -Continue to rest of program if they do
+     -Work for these inputs: Y y N n
+     -Say "Invalid Answer" if they input invalid letter and exit program
+-Display a header for the register (see sample outputs)
+-Ask for an item price
+-Add tax to the price and display total
+-Ask how much they gave to pay
+     -If they didn't give enough, say "Not enough money!" and exit program
+-Display what the change is
+-Display how much of each bill/coin for the casher to give
+
+
+
+***GOOD LUCK!!!!***
